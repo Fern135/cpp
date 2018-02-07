@@ -35,7 +35,6 @@ int main()
 
 	displayOrderDatails(billCost, tax, tips, total);
 	
-	/* Are you using Windows OS? -yes uncomment the below code */
 	system("pause");
 	return 0;
 }
