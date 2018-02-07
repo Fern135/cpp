@@ -1,4 +1,4 @@
-<img align="center" src="media/cpp.png" alt="c++ logo" width="%10" heigth="%10">
+<p align="center"><img src="media/cpp.png" alt="c++ logo" width="150" height="150"></p>
 
 # Answer of Problems in C++
 
